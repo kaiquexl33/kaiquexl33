@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas Vindas ao Meu Perfil 🖤
 
-<!--
-**kaiquexl33/kaiquexl33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Kaique B.
 
-Here are some ideas to get you started:
+- Estou Estudando Na [alura](https://www.alura.com.br)
+- Estou Me Desenvolvendo na Linguagem JavaScript
+- Utilizo Esse Espaço Para Minha Organizaçao e Compartilhamento Dos Meu Projetos Desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você Pode Entrar Em Contato Comigo 📫
+
+00001115493255SP@al.educacacao.sp.gov.br
+
+@kaiquexl33
+
+![](https://media1.tenor.com/m/LO5LF4ge6jgAAAAC/teq-ultimate-gohan-teen-gohan.gif)
